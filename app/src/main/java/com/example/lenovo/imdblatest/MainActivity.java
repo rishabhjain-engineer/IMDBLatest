@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
 
     //this is from ravi
 
+    //this is from rishabh
     private ViewPager mViewPager;
 
     @Override
